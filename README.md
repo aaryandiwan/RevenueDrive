@@ -1,6 +1,5 @@
 ## RevenueDrive
-
-### hey everyone this is my new project, Revenue Drive, based on car Dealership sales SQL + Python Project.
+ hey everyone this is my new project, Revenue Drive, based on car Dealership sales SQL + Python Project.
 
 ## Contents:-
 
