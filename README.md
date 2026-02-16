@@ -1,13 +1,13 @@
-##RevenueDrive
+## RevenueDrive
 
 ##hey everyone this is my new project, Revenue Drive, based on car Dealership sales SQL + Python Project.
 
-##Contents:-
+## Contents:-
 
 1) create_tables_and_data.sql  -> Creates DB, tables, and seeds 20 customers, 10 cars, 20 sales
 2) fake_data_generator.py      -> Adds more customers and sales using Faker (Python)
 
-##How to Run them 
+## How to Run them 
 A) SQL (MySQL Workbench or MySQL Shell)
    1. Open MySQL.
    2. Run: SOURCE <path>/create_tables_and_data.sql;
